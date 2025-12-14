@@ -24,7 +24,7 @@ The project was created to understand how real-world applications handle sensiti
 * Spring Boot
 * Spring Data JPA
 * Maven
-* MySQL / H2 (configurable)
+* MySQL 
 
 ---
 
